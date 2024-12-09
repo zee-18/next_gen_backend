@@ -33,3 +33,5 @@ Admin can use user management and change users roles
 Viewer can only view list of books created
 Editor can create, view and update books
 
+For openai SECRET_KEY i am sharing it over email please keep it in .env file
+
